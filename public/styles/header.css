@@ -1,0 +1,28 @@
+.page-header {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c9f137;
+  flex-direction: column;
+  background-image: url(https://www.transparenttextures.com/patterns/dark-denim-3.png);
+  overflow: hidden;
+  padding-top: 5.1em;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+.user-name {
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+}
+
